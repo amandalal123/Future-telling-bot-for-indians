@@ -1,0 +1,23 @@
+
+import time
+print("                       .__________________________________.          ")
+print("                       |         Bhavishya Bata           |          ")
+print("                       |             Ne Wala              |          ")
+print("                       |              ROBOT               |          ")
+print("                       |                                  |          ")
+print("                       |Made by   ---                     |          ")
+print("                       |________________Aman______________|          ")
+
+name = input("Apna naam likh:")
+age = input("Apni umar bata:")
+print("Urrrr... Burrrr... Swaaahaaaa...")
+time.sleep(5)
+print("Mere Pyare " + name)
+time.sleep(2)
+print("Tu itni jaldi " + age + " ka ho gaya time itni jaldi nikal jata h ")
+time.sleep(1)
+input("Ek gyaan ki baat batau :")
+time.sleep(4)
+print("ye code mene likha h be ")
+time.sleep(3)
+print("Itna hi likha h ab kiska wait kar raha h ")
